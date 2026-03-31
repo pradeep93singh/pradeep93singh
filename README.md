@@ -1,53 +1,77 @@
-# 👋 Hi, I'm Pradeep Singh
+# 👋 Hi, I'm Pradeep Singh - Data Analyst
 
-🎯 **Java Development Intern @ Codealpha**  
-🔍 Exploring the intersection of software engineering, data analytics, and game design  
-📊 Passionate about transforming data into stories and code into experiences
+Passionate **Entry-Level Data Analyst** transforming raw data into actionable business insights using SQL, Python, and visualization tools.
 
----
+## 🎯 What I Do
 
-## 🚀 What I'm Working On
+- **Data Analysis**: Cleaning, exploring, and analyzing datasets using SQL and Python
+- **Visualization**: Creating dashboards and reports with Excel, Power BI, and Tableau
+- **Problem Solving**: Breaking down business questions into data-driven solutions
 
-- 🔧 Building modular Java games (like Hangman with category selection)
-- 📈 Creating interactive dashboards with Power BI for e-commerce analytics
-- 🧠 Solving coding challenges in Python, Java, SQL, and C on HackerRank
-- 💼 Setting up monetization workflows and professional branding strategies
+## 🛠️ Technical Skills
 
----
+### Core Technologies
+- **Languages**: Python (Pandas, NumPy, Matplotlib), SQL
+- **Tools**: Microsoft Excel (Advanced), Power BI, Tableau
+- **Databases**: MySQL, PostgreSQL (basics)
+- **Other**: Google Sheets, Data Visualization, Statistical Analysis
 
-## 🧠 Skills & Tools
+### Proficiency Levels
+- **Advanced**: Excel, Data Cleaning, EDA (Exploratory Data Analysis)
+- **Intermediate**: Python, SQL, Power BI
+- **Beginner**: Tableau, Databases, Advanced Statistics
 
-| Language | Tools & Frameworks | Other Strengths |
-|---------|--------------------|-----------------|
-| Python, Java, SQL, C | Power BI, Git, VS Code | Resume writing, LinkedIn branding, Hindi-English translation |
-| Data Wrangling, EDA | Excel, Pandas, Matplotlib | Accessibility-focused content creation |
-| Game Development | Java Swing, OOP Design | Bureaucratic form navigation (PAN, payout setup) |
+## 📊 Featured Projects
 
----
+### [Excel Data Analytics Course](https://github.com/pradeep93singh/Excel_Data_Analytics_Course)
+**Skills**: Excel Pivot Tables, VLOOKUP, Data Visualization, Advanced Formulas
+- Comprehensive analysis of sales datasets
+- Executive dashboard with KPI tracking
+- Data cleaning and transformation
 
-## 🧩 I Love Creating...
+### [Python Data Analysis Projects](https://github.com/pradeep93singh/portfolio_9345pradeep)
+**Skills**: Pandas, NumPy, Matplotlib, Data Exploration
+- Customer data segmentation and analysis
+- Statistical analysis and visualization
+- Real-world dataset exploration
 
-- 📚 Interactive learning resources: quizzes, worksheets, visual breakdowns
-- 🧵 Step-by-step guides for technical and administrative tasks
-- 🌐 Bilingual content for broader accessibility (Hindi-English)
-- 🧠 Mind maps and visual summaries for complex topics
-
----
+### [Portfolio Projects](https://github.com/pradeep93singh/MY-personal-portfolio)
+**Skills**: Full-Stack Data Presentation
+- Multiple data analytics projects
+- Business insights and reporting
+- Data storytelling
 
 ## 🌱 Currently Learning
 
-- Advanced SQL queries and optimization
-- Data storytelling and dashboard design
-- Scientific communication and entrepreneurial branding
+- Advanced SQL optimization and window functions
+- Tableau Dashboard Creation for enterprise reporting
+- Statistical Analysis for Business Intelligence
+- Business Intelligence fundamentals
+- Advanced Python for data analysis
+
+## 📈 Why Work With Me?
+
+✓ Strong foundation in core data tools (SQL, Python, Excel)
+✓ Quick learner with passion for analytics
+✓ Experience with real-world datasets and problems
+✓ Clear communication of insights to non-technical stakeholders
+✓ Committed to continuous skill development
+✓ Problem-solving mindset and attention to detail
+
+## 📬 Let's Connect!
+
+- **LinkedIn**: [in/pradeep-singh-007133250](https://www.linkedin.com/in/pradeep-singh-007133250)
+- **Email**: pradeeps9345@gmail.com
+- **Portfolio**: [portfolio-pradeep-01.netlify.app](https://portfolio-pradeep-01.netlify.app/)
 
 ---
 
-## 📬 Let's Connect
+### 🚀 Open to Opportunities
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pradeep93singh)
-- 📮 Email: pradeeps9345@gmail.com
-- 🧠 Always open to collaboration, feedback, and new ideas!
+I'm actively seeking **entry-level Data Analyst positions** where I can:
+- Apply technical skills to real business problems
+- Learn from experienced data professionals
+- Contribute to data-driven decision making
+- Grow my expertise in analytics and BI tools
 
----
-
-_“Code is poetry. Data is narrative. Let’s build stories that matter.”_
+**Available for**: Remote, On-site, Hybrid roles | Full-time, Contract, Internship
